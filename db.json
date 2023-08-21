@@ -11,7 +11,7 @@
      "image":"https://images.pexels.com/photos/892618/pexels-photo-892618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
      },
      { "id": 2,
-     "title": "attractive priced apartment" ,
+     "title": "Attractive priced apartment" ,
      "description":"195 square meters with amenities. North direction, stone façade, a fully serviced building Located west of Abu Mazen Roundabout, purchased at $110,000 For sale at $72,000 with the possibility of considering serious buyers",
      "bathroom" : 2 ,
      "bedroom":3,
@@ -21,7 +21,7 @@
      "image":"https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
      },
      { "id": 3,
-     "title": "house with small land plot" ,
+     "title": "House with small land plot" ,
      "description":"In the middle of the city, there is a house. Behind it, there is a small piece of land with an area of 70 square meters. In front of the house, there is an open space of approximately 100 square meters facing the street. The house consists of 3 bedrooms, a kitchen, a living room, two bathrooms, and a setback for the apartment.",
      "bathroom" : 3 ,
      "bedroom":2,
@@ -31,7 +31,7 @@
      "image":"https://images.pexels.com/photos/892618/pexels-photo-892618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
      },
      { "id": 4,
-     "title": "ready-to-occupy apartment" ,
+     "title": "Ready apartment" ,
      "description":"Area of 90 square meters with a stunning view overlooking the eastern and southern sides of the Municipal Park. Located on Bulbul Street. We are looking forward to your visit and would be delighted to assist you.",
      "bathroom" : 3 ,
      "bedroom":4,
@@ -41,7 +41,7 @@
      "image":"https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
      },
      { "id": 5,
-     "title": "attractive offer price" ,
+     "title": "Attractive offer price" ,
      "description":"A three-bedroom house with a living room (and two bathrooms and a kitchen) is available. It overlooks 3 streets, with the street length having 3 branches. The location is in Al-Burayj, Block 12, close to all services. Electricity and water are available. The price is very appealing, and its area is 100 square meters",
      "bathroom" : 1 ,
      "bedroom":3,
@@ -51,7 +51,7 @@
      "image":"https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
      },
      { "id": 6,
-     "title": "a four-story house" ,
+     "title": "A four story house" ,
      "description":"A modern residential building comprising 3 bedrooms, a kitchen, a living room, and two bathrooms. Located on the fifth floor, facing east and south, overlooking the main street. The total area is 110 square meters. The price is $38,000 . The building has a 24-hour working elevator. Situated in the western Nasr district, near Ayadia Street",
      "bathroom" : 3 ,
      "bedroom":4,
